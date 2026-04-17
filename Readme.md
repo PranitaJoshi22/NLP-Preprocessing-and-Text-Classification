@@ -104,7 +104,3 @@ This project helped in understanding how raw text data can be processed and conv
 * Perform hyperparameter tuning for better accuracy
 
 ---
-
-## 🙌 Author
-
-(Name Here)
